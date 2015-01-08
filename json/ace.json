@@ -44,5 +44,6 @@
 	"Puzzle.tryAgain": "Blok nyang geupeuleumah hana beutôi. Neucuba lom.",
 	"Puzzle.checkAnswers": "Pareksa jeunaweueb",
 	"Turtle.moveForward": "ba ukeuë",
-	"Turtle.moveBackward": "ba u likot"
+	"Turtle.moveBackward": "ba u likot",
+	"Zone.space": "good space"
 }
